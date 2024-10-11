@@ -33,8 +33,11 @@ git commit -m "first commit"
 git push -u origin master
 
 
+
+
 ## get changes from remote
 
 fetch
-merge > resovle conflicts
+merge > resovle the conflicts everywhere
+
 pull
