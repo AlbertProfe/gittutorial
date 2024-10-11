@@ -31,3 +31,9 @@ gh repo create gitTutorial --public
 git remote add origin [GitHub - AlbertProfe/AssistantAI](https://github.com/AlbertProfe/gitTutorial.git) git add .
 git commit -m "first commit"
 git push -u origin master
+
+## get changes from remote
+
+fetch
+merge > resovle hte differece btw code
+pull
