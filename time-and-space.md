@@ -14,6 +14,8 @@ commits
 
 ### Stage
 
+let s explain what is stage
+
 ### Commit
 
 ### Fetch
