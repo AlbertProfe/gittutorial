@@ -18,4 +18,4 @@ commits
 
 ### Fetch
 
-
+explain fetch
