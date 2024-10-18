@@ -18,4 +18,4 @@ commits
 
 ### Fetch
 
-explain fetch all the content
+explain fetch all the content with examples ...
